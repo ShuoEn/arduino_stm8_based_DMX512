@@ -1,5 +1,5 @@
 ## Arduino(STM8 based) DMX512
-Using cheap and powerful chip STM8 to make a DMX512 decoder(but also transmiter).
+Using cheap and powerful chip STM8 to make a DMX512 decoder(also transmiter).
 # dependency
 https://github.com/tenbaht/sduino
 # Install
